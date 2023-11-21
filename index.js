@@ -1,3 +1,5 @@
+
+// reverse string
 function revertString(str){
     let length=str.length;
     let middle=(length+1)/2-1;
@@ -15,6 +17,7 @@ function revertString(str){
 
 console.log(revertString("ritik"))
 
+// print all substring
 function substr(str){
     let length=str.length;
     let middle=(length+1)/2-1;
